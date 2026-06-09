@@ -1,0 +1,36 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Vector store (auto-generated, not committed)
+knowledge_base/vectors/
+
+# Dynamically added knowledge base documents
+knowledge_base/documents/added_*.txt
+
+# CrewAI memory database
+db/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Misc
+get-pip.py

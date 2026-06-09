@@ -1,0 +1,13 @@
+{
+  "agents_loaded": [
+    "controller_agent",
+    "research_specialist",
+    "fact_checker",
+    "content_strategist",
+    "writing_specialist",
+    "seo_specialist",
+    "editor_agent"
+  ],
+  "total": 7,
+  "load_time": "0.63s"
+}

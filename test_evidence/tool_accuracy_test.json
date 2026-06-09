@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.nature.com/test",
+    "expected": "high",
+    "score": 95.0,
+    "passed": true
+  },
+  {
+    "url": "http://suspicious-site.com",
+    "expected": "low",
+    "score": 57.0,
+    "passed": true
+  },
+  {
+    "url": "https://stanford.edu/research",
+    "expected": "high",
+    "score": 95.0,
+    "passed": true
+  }
+]
